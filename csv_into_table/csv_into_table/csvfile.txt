@@ -1,0 +1,8 @@
+Name,Address,Pincode,phonenumber
+kavya elchuri,Hyderabad-mehdipatnam,501212,90000000000
+anusha m,madinaguda,112345655,+919988776655
+indraja chalagonda, vizag,1234567890,9912121212
+aninditha,warangal,500036,8899889988
+
+
+

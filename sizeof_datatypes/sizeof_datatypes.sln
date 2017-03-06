@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sizeof_datatypes", "sizeof_datatypes\sizeof_datatypes.vcxproj", "{3B9B2059-E279-47BA-9F61-627DA0E50838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B9B2059-E279-47BA-9F61-627DA0E50838}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B9B2059-E279-47BA-9F61-627DA0E50838}.Debug|Win32.Build.0 = Debug|Win32
+		{3B9B2059-E279-47BA-9F61-627DA0E50838}.Release|Win32.ActiveCfg = Release|Win32
+		{3B9B2059-E279-47BA-9F61-627DA0E50838}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

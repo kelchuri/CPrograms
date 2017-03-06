@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "find_function", "find_function\find_function.vcxproj", "{50400149-93E7-49EE-BDD6-CEAB8148449C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50400149-93E7-49EE-BDD6-CEAB8148449C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50400149-93E7-49EE-BDD6-CEAB8148449C}.Debug|Win32.Build.0 = Debug|Win32
+		{50400149-93E7-49EE-BDD6-CEAB8148449C}.Release|Win32.ActiveCfg = Release|Win32
+		{50400149-93E7-49EE-BDD6-CEAB8148449C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

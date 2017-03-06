@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "binarystring_to_decimal", "binarystring_to_decimal\binarystring_to_decimal.vcxproj", "{478A403D-C1FF-497E-A311-1224FE1478FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478A403D-C1FF-497E-A311-1224FE1478FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{478A403D-C1FF-497E-A311-1224FE1478FA}.Debug|Win32.Build.0 = Debug|Win32
+		{478A403D-C1FF-497E-A311-1224FE1478FA}.Release|Win32.ActiveCfg = Release|Win32
+		{478A403D-C1FF-497E-A311-1224FE1478FA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

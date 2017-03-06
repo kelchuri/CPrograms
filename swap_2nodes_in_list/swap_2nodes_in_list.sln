@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "swap_2nodes_in_list", "swap_2nodes_in_list\swap_2nodes_in_list.vcxproj", "{F0E3FF55-38C8-48A8-BB23-8297780951F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E3FF55-38C8-48A8-BB23-8297780951F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0E3FF55-38C8-48A8-BB23-8297780951F9}.Debug|Win32.Build.0 = Debug|Win32
+		{F0E3FF55-38C8-48A8-BB23-8297780951F9}.Release|Win32.ActiveCfg = Release|Win32
+		{F0E3FF55-38C8-48A8-BB23-8297780951F9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

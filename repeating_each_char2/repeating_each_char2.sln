@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "repeating_each_char2", "repeating_each_char2\repeating_each_char2.vcxproj", "{21B4F746-7DC4-4C9F-B626-82904B96F288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B4F746-7DC4-4C9F-B626-82904B96F288}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21B4F746-7DC4-4C9F-B626-82904B96F288}.Debug|Win32.Build.0 = Debug|Win32
+		{21B4F746-7DC4-4C9F-B626-82904B96F288}.Release|Win32.ActiveCfg = Release|Win32
+		{21B4F746-7DC4-4C9F-B626-82904B96F288}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
